@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "琥珀の身体(Message-In)",
+  "base_artist": "HIMEHINA",
+  "createdAt": "2026-02-28T12:40:14.876416Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "琥珀の身体",
+      "artist": "HIMEHINA",
+      "has_synced": false,
+      "path": "select/pl_01_琥珀の身体_HIMEHINA.txt"
+    }
+  ]
+}
